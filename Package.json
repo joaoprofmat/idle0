@@ -1,8 +1,8 @@
 {
-  "name": "idle-game",
+  "name": "idle0",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://yourusername.github.io/idle-game",
+  "homepage": "https://joaoprofmat.github.io/idle0",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
